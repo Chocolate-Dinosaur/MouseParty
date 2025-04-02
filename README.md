@@ -8,6 +8,7 @@ Features
 - Create fun and unique local multi-player games!
 - Supports over 200 mice connected to the same PC
 - Handles dynamic mouse connection/disconnection
+- Supports lightguns (eg Sinden Lightgun)
 - Supports UGUI Canvas and UI Toolkit
 - Full C# source code included
 - Works in editor as well as builds
