@@ -6,7 +6,7 @@ Mouse Party is a Unity plugin that enables games (and apps) to support multi-pla
 Features
 
 - Create fun and unique local multi-player games!
-- Supports over 200 mice connected to the same PC
+- Supports multiple mice/lightguns connected to the same PC
 - Handles dynamic mouse connection/disconnection
 - Supports lightguns (eg Sinden Lightgun)
 - Supports UGUI Canvas and UI Toolkit
@@ -24,7 +24,8 @@ Requirements
 
 Links
 
-- [Download the Trial Version](https://github.com/Chocolate-Dinosaur/MouseParty/releases)
+- [Download the Trial Edition](https://github.com/Chocolate-Dinosaur/MouseParty/releases).
+- [Visit the Unity Asset Store](https://assetstore.unity.com/packages/slug/308858?aid=1100lSvNe) asset page.
 - [Visit the website](https://www.chocdino.com/products/mouse-party/about/) for more information.
 
 Videos
