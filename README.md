@@ -6,10 +6,11 @@ Mouse Party is a Unity plugin that enables games (and apps) to support multi-pla
 Features
 
 - Create fun and unique local multi-player games!
-- Supports multiple mice/lightguns connected to the same PC
+- Supports multiple mice / lightguns connected to the same PC
 - Handles dynamic mouse connection/disconnection
 - Supports lightguns (eg Sinden Lightgun)
 - Supports UGUI Canvas and UI Toolkit
+- Supports Collider and Collider2D events - **NEW**
 - Full C# source code included
 - Works in editor as well as builds
 - Very easy to use
